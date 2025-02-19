@@ -6,8 +6,8 @@ This project is an **Agentic Retrieval-Augmented Generation (RAG) System** built
 - **Agentic RAG Architecture**  
 - **PDF Document Processing** (Loading, Chunking, and Embedding)  
 - **Vector Database (Chroma) for Efficient Retrieval**  
-- **Google Generative AI Embeddings** for Representation Learning  
-- **Groq LLM for Generating Intelligent Responses**  
+- **Google Generative AI Embeddings** EMbedding
+- **ollama to use llama llm locally**  
 - **LangChain-powered Knowledge Base**  
 - **Fully Automated Query Processing with Agno Agent**  
 
